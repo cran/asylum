@@ -5,13 +5,13 @@
 \alias{support_received}
 \title{Asylum seekers in receipt of support}
 \format{
-A data frame with 56,864 rows and 7 variables:
+A data frame with 60,699 rows and 7 variables:
 \describe{
   \item{Date}{Date}
   \item{Nationality}{Nationality of people receiving support}
   \item{Region}{World region the nation is in}
   \item{Support Type}{Section 95, Section 98, or Section 4 support}
-  \item{Support Sub-Type}{'Dispersed Accommodation' or 'Subsistence Only' for Section 95 support}
+  \item{Accommodation Type}{'Dispersed Accommodation' or 'Subsistence Only' for Section 95 support}
   \item{UK Region}{Where the people are currently living}
   \item{People}{Number of people receiving support}
   ...

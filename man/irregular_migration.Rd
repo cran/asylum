@@ -5,7 +5,7 @@
 \alias{irregular_migration}
 \title{Irregular migration to the UK}
 \format{
-A data frame with 6,503 rows and 9 variables:
+A data frame with 9,114 rows and 9 variables:
 \describe{
   \item{Date}{Date}
   \item{Year}{Year}
@@ -20,7 +20,7 @@ A data frame with 6,503 rows and 9 variables:
 }
 }
 \source{
-\url{https://www.gov.uk/government/statistical-data-sets/immigration-system-statistics-data-tables-year-ending-december-2022#detention}
+\url{https://www.gov.uk/government/statistical-data-sets/irregular-migration-detailed-dataset-and-summary-tables}
 }
 \usage{
 irregular_migration
